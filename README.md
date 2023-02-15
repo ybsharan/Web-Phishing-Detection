@@ -3,7 +3,8 @@ Project Title : Web Phishing Detection
 
 ## Team Details:
 Team ID : PNT2022TMID18347  
-Batch   : B2-2M4E
+Batch   : B2-2M4E  
+IBM Official Link  : https://github.com/IBM-EPBL/IBM-Project-26315-1660024652
 
 Team Leader : Baidehi Sharan Yadav  
 Team member : Ajay Kumar Chaudhary  
